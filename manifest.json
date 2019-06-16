@@ -23,5 +23,10 @@
    },
    "permissions": [ "http://*.zendesk.com/*", "https://*.zendesk.com/*", "webNavigation", "tabs" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "0.11.6"
+   "version": "0.11.6",
+   "applications": {
+     "gecko": {
+       "id": "{fcfc5d98-01a9-4d8e-8816-2ba9506904af}"
+     }
+   }
 }
