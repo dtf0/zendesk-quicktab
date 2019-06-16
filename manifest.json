@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "javascripts/tabWatcher.js" ]
+   },
+   "default_locale": "en",
+   "description": "Well behaved browser tabs for Zendesk agents",
+   "icons": {
+      "128": "images/icons/icon-128.png",
+      "16": "images/icons/icon-16.png",
+      "19": "images/icons/icon-19.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhEnsgqduJ0QMafL+z4JNoS/ILf21L/z1Nd/0h0WvWFqXGYcgIqBauXo5oOTihhf6l+Scc8yfZM2FZSR4uhE/A5iBuSlfKmd7pM0Q8zDnKZHiN0U48h8modBRSIYGPQYzGcRKwJNNjYPhqzJr2wlbutWdEY6pXOrmqpKB9ANlbTBqlljl8yimLay+LXhi+S3AjdNMaplZSHWRySDcODUjHDmNAFDlhfO0xSRP2UpnfP9KoGXJHhLlkDZmyycLCS2OiM6WktF2PGXMKc/QfxbTM+xDWB9qkUHjkq/ylJH0hQXJWPH28L4QYsjrNUmuEFwZBJO2roTx0HXHlLEmXexRYwIDAQAB",
+   "manifest_version": 2,
+   "name": "Zendesk Quicktab",
+   "page_action": {
+      "default_icon": {
+         "19": "images/icons/icon38-enabled.png",
+         "38": "images/icons/icon38-enabled.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Zendesk Quicktab"
+   },
+   "permissions": [ "http://*.zendesk.com/*", "https://*.zendesk.com/*", "webNavigation", "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.11.6"
+}

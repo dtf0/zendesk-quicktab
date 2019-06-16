@@ -1,0 +1,86 @@
+{
+   "txt_popup_options_help_documentation": {
+      "description": "",
+      "message": "Read the documentation"
+   },
+   "txt_popup_options_help_feedback": {
+      "description": "",
+      "message": "Give beta feedback"
+   },
+   "txt_popup_options_help_welcome": {
+      "description": "",
+      "message": "See welcome screen again"
+   },
+   "txt_popup_options_link_detection_allLinks": {
+      "description": "",
+      "message": "All agent links"
+   },
+   "txt_popup_options_link_detection_noLinks": {
+      "description": "",
+      "message": "No links (disabled)"
+   },
+   "txt_popup_options_link_detection_ticketLinks": {
+      "description": "",
+      "message": "Just ticket links"
+   },
+   "txt_popup_status_active": {
+      "description": "",
+      "message": "Currently active"
+   },
+   "txt_popup_title_help": {
+      "description": "",
+      "message": "Need some help?"
+   },
+   "txt_popup_title_link_detection": {
+      "description": "",
+      "message": "Link detection settings"
+   },
+   "txt_welcome_body_lose_work": {
+      "description": "",
+      "message": "No. The extension talks directly to the interface, telling it where you would like to navigate. The interface will keep all your work safe."
+   },
+   "txt_welcome_body_new_browser_tab": {
+      "description": "",
+      "message": "You can disable the extension temporarily. Just go to your agent interface, and in your URL bar you should see an icon that looks like \u003Cimg src='./images/icons/icon38-enabled.png' /> or \u003Cimg src='./images/icons/icon38-disabled.png' />"
+   },
+   "txt_welcome_body_what_do": {
+      "description": "",
+      "message": "So you have a browser tab with the Zendesk agent interface already opened. When you click a link - a ticket or user link for example - this extension will ensure the link is opened in that same browser tab."
+   },
+   "txt_welcome_body_what_links": {
+      "description": "",
+      "message": "Any agent link, which is any link with /agent after the domain. Tickets, users, views and even admin pages."
+   },
+   "txt_welcome_button_read_docs": {
+      "description": "",
+      "message": "Read the full documentation"
+   },
+   "txt_welcome_header_hook": {
+      "description": "",
+      "message": "Click a Zendesk agent link from anywhere, and this handy little extension will hunt for any already open Zendesk tabs, opening the link their instead"
+   },
+   "txt_welcome_header_lose_work": {
+      "description": "",
+      "message": "Would that cause me to lose work?"
+   },
+   "txt_welcome_header_main": {
+      "description": "",
+      "message": "Well behaved browser tabs for Zendesk agents"
+   },
+   "txt_welcome_header_new_browser_tab": {
+      "description": "",
+      "message": "Can I still open links in a new browser tab?"
+   },
+   "txt_welcome_header_thank_you": {
+      "description": "",
+      "message": "Thanks for installing Quicktab"
+   },
+   "txt_welcome_header_what_do": {
+      "description": "",
+      "message": "What does this do again?"
+   },
+   "txt_welcome_header_what_links": {
+      "description": "",
+      "message": "What links does this work for?"
+   }
+}
